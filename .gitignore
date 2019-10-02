@@ -1,0 +1,7 @@
+build/
+extern/include/glm/cmake
+ref/
+*.obj
+*.png
+.vscode/
+*.h.gch
